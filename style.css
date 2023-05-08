@@ -1,0 +1,54 @@
+body {
+  background-image: url(main.png);
+  font-family: cursive;
+  font-family: "Muli", sans-serif;
+}
+h1 {
+  font-family: cursive;
+  color: #0393a3;
+  padding-bottom: 2rem;
+  font-weight: bold;
+}
+a {
+  font-family: cursive;
+  color: #76c6b1;
+}
+a:hover {
+  font-family: cursive;
+  color: #76c6b1;
+  text-decoration: none;
+}
+.form-control:focus {
+  color: #000;
+  background-color: #fff;
+  border: 2px solid #e8d426;
+  outline: 0;
+  box-shadow: none;
+}
+.btn {
+  font-family: cursive;
+  background: #e8a87c;
+  border: #e8d426;
+}
+.btn:hover {
+  font-family: cursive;
+
+  background: #e8a87c;
+  border: #e8d426;
+}
+
+p {
+  font-family: cursive;
+  color: #f6a064;
+
+  text-align: center;
+}
+
+div {
+  font-family: cursive;
+  color: #f6a064;
+}
+
+.main-container{
+  padding-top: 16em;
+}
